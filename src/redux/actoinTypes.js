@@ -1,0 +1,4 @@
+export const ADD_COKTAIL = 'ADD_COKTAIL'
+export const DELETE_COKTAIL='DELETE_COKTAIL'
+export const EDIT_COKTAIL ='EDIT_COKTAIL'
+export const SET_COKTAIL ='SET_COKTAIL'
